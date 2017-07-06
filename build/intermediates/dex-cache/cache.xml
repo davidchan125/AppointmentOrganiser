@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\69f4140ac679f6139d9a60ad2bd5112d9328b013\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\David\Desktop\BookingApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29d612568bed8e89ee73ef7eee80d78ac3194e82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\fdf86e470aef31bb1667df52142fc7fb4d0e66b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\David\Desktop\BookingApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_734e32e04159d07f9fb2c4ad3c9ee5f980c90b5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\Desktop\BookingApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\David\Desktop\BookingApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_049ed8984410318ec4c3bb879f22e22630ca3575\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\5fb108e940767c7ac1b00d0d8adbc7e7a767454a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\David\Desktop\BookingApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8b53c316f4f5c26c4e282b48398a167bab58cc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\David\Desktop\BookingApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b749952f0aaa6854f8e03f20f09f997222b264e5">
+        <dex dex="C:\Users\David\Desktop\BookingApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7ecbb7be2c13ed20ee32e0ae9ce93b49f3d03168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\1081490953c1349a12ab46d00e492d00ee467fab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\David\Desktop\BookingApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7fbe89bdb34ddf4bf9386163722c152f90304fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\5fb108e940767c7ac1b00d0d8adbc7e7a767454a\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\David\Desktop\BookingApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_58eb280590f4e8fbf0dd015c9b10cac80f961f6a\classes.dex" />
+    </item>
+
+</items>
